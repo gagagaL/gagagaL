@@ -11,9 +11,9 @@
   <a href="http://qiita.com/Roqmoq">
     <img height="20" src="https://qiita-badge.apiapi.app/s/Roqmoq/contributions.svg" />
   </a>
-  <a href="https://zenn.dev/gagagaL">
+<!--   <a href="https://zenn.dev/gagagaL">
     <img height="20" src="https://badgen.org/img/zenn/Roqmoq/articles?style=plastic" />
-  </a>
+  </a> -->
 </p>
 
 

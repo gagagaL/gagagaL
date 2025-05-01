@@ -13,7 +13,8 @@
   </a>
   
   [![zenn](https://img.shields.io/badge/Zenn@gagagaL-Visit-blue?logo=zenn)](https://zenn.dev/gagagaL)
-  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=gagagaL&theme=radical)
+  
+  [![Streak Stats]](https://github-readme-streak-stats.herokuapp.com/?user=gagagaL&theme=radical)
 <!--   <a href="https://zenn.dev/gagagaL">
     <img height="20" src="https://badgen.org/img/zenn/Roqmoq/articles?style=plastic" />
   </a> -->
